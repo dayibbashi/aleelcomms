@@ -1,0 +1,87 @@
+{
+  "company": {
+    "name": "Astra Comms",
+    "tagline": "Designed to Communicate. Built to Impact",
+    "about": "Astra Comms is a premier communication and PR agency based in Somalia, dedicated to helping mission-driven organizations amplify their voice and impact. We specialize in supporting NGOs, businesses, and public institutions to communicate more effectively through tailored digital strategies, creative content development, and impactful design. With a team of multidisciplinary communication experts, we bring a deep understanding of both local context and global communication trends. Our work spans multiple sectors—including governance, development, health, youth, and financial inclusion—where we have partnered with ministries, international organizations, and private companies to craft compelling narratives that drive visibility, trust, and lasting engagement.",
+    "offers": [
+      "Strategic Communication Planning",
+      "Reputation and Brand Management",
+      "Local and International Media Coverage"
+    ]
+  },
+  "mission": "To strengthen voices and connect organizations with their audiences through strategic and creative communication solutions.",
+  "vision": "To be Somalia's most trusted communication partner, known for innovation, impact, and integrity.",
+  "core_values": [
+    {
+      "name": "Integrity",
+      "description": "We uphold ethical standards and honesty."
+    },
+    {
+      "name": "Innovation",
+      "description": "We embrace creativity and new technologies."
+    },
+    { "name": "Excellence", "description": "We aim to exceed expectations." },
+    {
+      "name": "Collaboration",
+      "description": "We work hand-in-hand with clients."
+    },
+    {
+      "name": "Agility",
+      "description": "We respond swiftly to changing media landscapes."
+    }
+  ],
+  "approach": [
+    "Discovery: Understand client goals and audiences.",
+    "Strategy: Develop a tailored communication plan.",
+    "Creation: Produce engaging content and visuals.",
+    "Engagement: Deliver across the right platforms.",
+    "Evaluation: Monitor, analyze, and improve."
+  ],
+  "services": [
+    {
+      "title": "Public Relations & Media Engagement",
+      "description": "Media coverage, crisis communication, press releases."
+    },
+    {
+      "title": "Corporate & Internal Communication",
+      "description": "Internal messaging strategies, leadership communication."
+    },
+    {
+      "title": "Digital Communication & Social Media",
+      "description": "Social media management, content creation, online reputation management."
+    },
+    {
+      "title": "Brand Strategy & Visual Identity",
+      "description": "Market research, brand storytelling, logo and identity design."
+    },
+    {
+      "title": "Event Management",
+      "description": "Planning and delivering corporate events, launches, and media briefings."
+    }
+  ],
+  "why_choose_us": [
+    "Proven track record with NGOs, government, and private sector",
+    "Experienced and diverse communication team",
+    "Data-driven and audience-focused solutions",
+    "Personalized attention to every project"
+  ],
+  "specialized_offerings": [
+    {
+      "title": "Publications",
+      "description": "We design professional publications and reports that distill complex information into clear, accessible formats. By transforming raw content into visually engaging and structured layouts, we help organizations amplify key messages, increase audience understanding, and enhance institutional credibility."
+    },
+    {
+      "title": "Social Media Design",
+      "description": "We create high-impact social media visuals and storytelling strategies that align with each client’s voice and brand. Our content is designed to boost engagement, grow online presence, and deliver messages that resonate across platforms."
+    },
+    {
+      "title": "Events & Launch Support",
+      "description": "We offer end-to-end communication and branding support for events. From pre-event visibility campaigns to real-time media coverage and post-event storytelling, we ensure your event leaves a lasting impression."
+    }
+  ],
+  "contact": {
+    "phone": ["+252 61 9112709", "+252 61 3491958"],
+    "email": "astracommunicationsso@gmail.com",
+    "address": "Adani Tower, Mogadishu-Somalia"
+  }
+}
